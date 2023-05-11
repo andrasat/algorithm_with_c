@@ -25,6 +25,14 @@ The repository is organized simply into folders, like below:
 │   ├── linked_list.c
 │   ├── stack.c
 │   └── ...
+├── challenges
+│   ├── hackerrank
+│   │   ├── <problem_name>.c
+│   │   └── <problem_name>.c
+│   ├── aoc
+│   │   ├── <problem_name>.c
+│   │   └── <problem_name>.c
+│   └── ...
 ├── helper.c
 └── main.c // main program
 ```
